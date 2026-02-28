@@ -1,7 +1,7 @@
 # The Commuter Cat: Urban Dash 🐈🚌
 
 ### 📝 Overview
-This is a multi-level strategy platformer developed as my first programming project for *Harvard's CS50x. The game (originally titled *Ivy’s Harvard game) challenges players to navigate a cat through an increasingly complex urban environment.
+This is a multi-level strategy platformer developed as my first programming project for *Harvard's CS50x (Week 0)*. The game challenges players to navigate a cat through an increasingly complex urban environment, demonstrating fundamental computational thinking concepts.
 
 ### 🧠 Goal & Logic
 - *Primary Goal:* Guide the cat safely to the bus stop across multiple levels.
